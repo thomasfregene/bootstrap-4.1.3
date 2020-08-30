@@ -13,3 +13,7 @@ body{
     height: 5px;
     margin: 0 auto;
 }
+
+.height-80{
+    min-height: 80vh;
+}
