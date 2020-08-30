@@ -8,3 +8,8 @@ body{
     min-height: 100vh;
 }
 
+.title-underline{
+    width: 200px;
+    height: 5px;
+    margin: 0 auto;
+}
